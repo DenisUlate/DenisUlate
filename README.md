@@ -2,16 +2,11 @@
 <h3 align="center">A passionate frontend developer from Costa Rica.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denisulate&label=Profile%20views&color=0e75b6&style=flat" alt="denisulate" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=denisulate" alt="denisulate" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/dennis_ulate" target="blank"><img src="https://img.shields.io/twitter/follow/dennis_ulate?logo=twitter&style=for-the-badge" alt="dennis_ulate" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, React and Frameworks like Boostrap and TailwindCSS.**
+- 🌱 I’m currently learning **JavaScript, React and Frameworks like Bootstrap and TailwindCSS.**
 
 - 📫 How to reach me **dennisjose.us@gmail.com**
-
-- ⚡ Fun fact **I love PC Games.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
